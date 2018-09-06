@@ -1,0 +1,11 @@
+created a github account.
+learned how to open a terminal.
+used pwd command , created a directory using mkdir command.
+learned to use ls command.
+used (man ls) command to see all the other commands that could be used under ls command.
+used subl command to open a sublime window.
+used print command to print text using sublime window.
+saved the file under the directory created using .py extetention to save the file.
+used cd directoryname to access directory.
+then used python filename.py to display thetext on sublime window on the editor.
+used gedit lab1.txt to open txt file
